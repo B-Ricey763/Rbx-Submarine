@@ -1,5 +1,5 @@
 [submodule "modules/Janitor"]
-	path = modules/Janitor
+	path = submodules/Janitor
 	url = https://github.com/howmanysmall/Janitor.git
 [submodule "submodules/RoPID"]
 	path = submodules/RoPID
