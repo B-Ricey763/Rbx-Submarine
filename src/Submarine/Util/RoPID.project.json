@@ -1,0 +1,6 @@
+{
+  "name": "RoPID",
+  "tree": {
+    "$path": "../../../submodules/RoPID"
+  }
+}

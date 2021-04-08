@@ -1,0 +1,41 @@
+{
+  "name": "Submarine",
+  "tree": {
+    "$className": "DataModel",
+    "Workspace": {
+      "$properties": {
+        "FilteringEnabled": true,
+        "StreamingEnabled": true
+      },
+      "Terrain": {
+        "$path": "terrain.rbxmx"
+      },
+      "Spawn": {
+        "$className": "SpawnLocation",
+        "$properties": {
+          "Position": [-127.25, 260.483, -90.5],
+          "Anchored": true,
+          "CanCollide": false,
+          "Transparency": 1
+        }
+      }
+    },
+    "ServerScriptService": {
+      "Test": {
+        "$path": "test.server.lua"
+      }
+    },
+    "ServerStorage": {
+      "SubmarineScript": {
+        "$path": "src/Submarine"
+      }
+    },
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "SubmarineInput": {
+          "$path": "src/client"
+        }
+      }
+    }
+  }
+}

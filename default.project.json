@@ -1,0 +1,12 @@
+{
+  "name":"Submarine",
+  "tree": {
+    "$path": "sub.rbxmx",
+    "SubmarineScript": {
+      "$path": "src/Submarine"
+    },
+    "README": {
+      "$path": "src/README.lua"
+    }
+  }
+}

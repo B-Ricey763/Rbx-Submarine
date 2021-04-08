@@ -1,0 +1,9 @@
+# Project place file
+/*.rbxlx
+
+# Auto-Generated selene library
+roblox.toml
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
